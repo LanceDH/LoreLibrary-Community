@@ -1,0 +1,10 @@
+﻿--
+-- The Exodar
+--
+-- {["title"] = ""			,["x"] = 0	,["y"] = 0	,["lore"] = ""}
+-- /run print(GetPlayerMapPosition("player"))
+
+{["title"] = "Vault of Lights"		,["x"] = 33.64	,["y"] = 66.34	,["lore"] = "The Vault of Lights is the favorite haunt of the Prophet Velen.\n\nThe Vault is notable for its central area, which looks like a set of purple holograms of various mobs.\nIt is in fact a museum or tactical information data bank of several Burning Legion units.\nOccasionally a draenei tour group strides from one hologram to another.\nAs these group approaches various hologram emitters, the emitters state facts about the particular unit, namely the name, the species, its affiliation, and its function."}
+{["title"] = "Crystal Hall"			,["x"] = 38.28	,["y"] = 28.38	,["lore"] = "The Crystal Hall is an area of the Exodar.\nThe shaman trainers can be found here, as well as a small crystal-digging mine full of Broken workers.\nNote that the shamans are not all draenei; there are also furbolg and broken shaman around, including the most important one, Farseer Nobundo, located at the small elevated platform in the zone.\n\nAn interesting fact is that the draenei harvest crystals in the northern portion of the hall, where Broken draenei miners use their mining picks to gather the precious gems.\nThe crystals are used to repair the Exodar.\nThe Broken draenei, though still draenei in some regard, seem treated like a lesser class; a labor and task force.\nIt is kind of odd that a race with such an attachment to the Light treats those who were once their own people with such distaste.\nIt is possible that the arrangment was agreed to by the Broken draenei; their bodies better suited to manual labor than the \"pure\" draenei."}
+{["title"] = "Trader's Tier"			,["x"] = 58.61	,["y"] = 70.21	,["lore"] = "As the name implies, the Trader's Tier is where most of trade in Exodar takes place"}
+{["title"] = "Seat of the Naaru"		,["x"] = 54.73	,["y"] = 49.05	,["lore"] = "The Seat of the Naaru is the central section of the Exodar where O'ros, a naaru, resides down on the lower levels.\nO'ros is the last naaru in the line of Xe'ra, the naaru prime."}
