@@ -1,0 +1,8 @@
+== Vault of Lights
+
+The Vault of Lights is the favorite haunt of the Prophet Velen.
+
+The Vault is notable for its central area, which looks like a set of purple holograms of various mobs.
+It is in fact a museum or tactical information data bank of several Burning Legion units.
+Occasionally a draenei tour group strides from one hologram to another.
+As these group approaches various hologram emitters, the emitters state facts about the particular unit, namely the name, the species, its affiliation, and its function.

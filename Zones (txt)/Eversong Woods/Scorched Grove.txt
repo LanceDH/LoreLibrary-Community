@@ -1,0 +1,6 @@
+== Scorched Grove
+
+|Hlinktype:linkstring|hLinktext|h
+The Scorched Grove is an area of southwestern Eversong Woods that has been completely burned down by the blood elves in an attempt to halt the Scourge forces and the spreading of the soil-tainting blight.
+Such extreme measures were thought to be necessary, as the runestones that protected the Woods were mostly destroyed by the Scourge.
+The Grove is now populated by several aggressive treants who defiantly try to nurture life back into the burned soil.

@@ -1,0 +1,4 @@
+== Sewers
+
+The Sewers are another way in and out of the city, which is guarded by abominations.
+The tunnels allow flightpaths to leave and enter the city.

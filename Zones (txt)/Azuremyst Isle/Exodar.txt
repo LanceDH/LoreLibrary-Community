@@ -1,0 +1,24 @@
+== Exodar
+
+<HTML><BODY><P>The Exodar is the enchanted capital city of the draenei who chose to depart from Draenor.<BR/>
+<BR/>
+At some point before the present, the naaru arrived in the realm of Outland with a "dimensional fortress" known as Tempest Keep.<BR/>
+The naaru dispersed throughout the ravaged world, leaving the fortress defenseless.<BR/>
+Seeing an opportunity to strike, Kael'thas Sunstrider and his many blood elf legions assaulted Tempest Keep and captured it, taking possession of its treasures and kidnapping the sole naaru occupant, M'uru, sending him back to Silvermoon City for the magisters to utilize in their thirst for magic.<BR/>
+<BR/>
+Velen, the courageous prophet who had led the draenei people since their exodus from Argus millennia before, had hid with the remainder of his people in the wake of the Legion-instigated orcish onslaught.<BR/>
+With the Broken Farseer Nobundo, first of the draenei shaman, at his side, the Prophet personally led a raid on Tempest Keep to wrest control of one of its satellite structures, the Exodar.<BR/>
+<BR/>
+The draenei eventually took control of the Exodar and used it to escape Outland.<BR/>
+The blood elves, discovering what the draenei were planning, sabotaged the dimensional engines of the vessel.<BR/>
+When the draenei activated it, the engine malfunctioned and sent the Exodar hurtling out of control through the Twisting Nether until it reached the closest habitable planet, Azeroth.<BR/>
+The crippled ship screamed across the skies of Northern Kalimdor, crystals flying everywhere, until it crash-landed on a small island chain off the coast of Darkshore.<BR/>
+The survivors took the islands as their new homeland, and set up their new capital in the largest intact portion of the still-smoking ship.</P><BR/>
+<IMG align="CENTER" src="Interface/AddOns/LoreLibrary/Images/crest_Draenei" /><BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<P align="CENTER"><BR/>
+Draenei Crest</P><BR/>
+</BODY></HTML>

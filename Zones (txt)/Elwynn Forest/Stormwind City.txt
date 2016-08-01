@@ -1,0 +1,14 @@
+== Stormwind City
+
+<HTML><BODY><P>Stormwind City is the capital city of the kingdom of Stormwind and the largest human city of Azeroth.<BR/>
+After the Third War, it has become one of the last great human cities.<BR/>
+<BR/>
+No city better demonstrates human determination than Stormwind. Destroyed during the Horde’s initial invasion of Azeroth, Stormwind was painstakingly reconstructed by the Stonemasons’ Guild after the Second War. Parts of the city were razed again when Deathwing, the corrupted black Dragon Aspect, brutally attacked Stormwind, but the other undamaged districts are more beautiful than ever thanks to their hardworking inhabitants. From the magnificent Cathedral of Light, which serves as a major spiritual hub, to the awe-inspiring Valley of Heroes, which commemorates the sacrifices of Stormwind’s loyal champions, the city truly represents the courageous heart of humanity.</P><BR/>
+<IMG align="CENTER" src="Interface/AddOns/LoreLibrary/Images/crest_Human" /><BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<P align="CENTER"><BR/>
+Human Crest</P><BR/>
+</BODY></HTML>

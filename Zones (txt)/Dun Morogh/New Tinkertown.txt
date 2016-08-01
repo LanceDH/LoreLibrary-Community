@@ -1,0 +1,14 @@
+== New Tinkertown
+
+<HTML><BODY><P>Following the conclusion of Operation: Gnomeregan, High Tinker Mekkatorque and his people have gained a foothold just outside the city in New Tinkertown.<BR/>
+<BR/>
+Resolute in reclaiming their lost capital, Gnomeregan's exiles have begun an assault against the traitorous Mekgineer Thermaplugg.<BR/>
+Traveling from their temporary residence in Ironforge, they are led by the esteemed High Tinker Gelbin Mekkatorque, leader of the gnomes, and seek to restore Gnomeregan to its past glory.</P><BR/>
+<IMG align="CENTER" src="Interface/AddOns/LoreLibrary/Images/crest_Gnome" /><BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<P align="CENTER"><BR/>
+Gnome Crest</P><BR/>
+</BODY></HTML>

@@ -1,0 +1,21 @@
+== Darnassus
+
+<HTML><BODY><P>Darnassus is the capital city of the night elves of the Alliance.<BR/>
+The high priestess, Tyrande Whisperwind, resides in the Temple of the Moon, surrounded by other sisters of Elune and her mate, the Arch-Druid Malfurion Stormrage.<BR/>
+<BR/>
+In the aftermath of the Third War, the night elves had to adjust to their mortal existence.<BR/>
+Such an adjustment was far from easy, and there were many night elves who could not adjust to the prospects of aging, disease and frailty.<BR/>
+Seeking to regain their immortality, a number of wayward druids conspired to plant a special tree that would reestablish a link between their spirits and the eternal world.<BR/>
+With Malfurion Stormrage missing, Fandral Staghelm — the leader of those who wished to plant the new World Tree - became the new Arch-Druid.<BR/>
+In no time at all, he and his fellow druids had forged ahead and planted the great tree, Teldrassil, off the stormy coasts of northern Kalimdor.<BR/>
+Under their care, the tree sprouted up above the clouds.<BR/>
+Among the twilight boughs of the colossal tree, the wondrous city of Darnassus took root.<BR/>
+Darnassus was built to honor the survival of the night elven race.</P><BR/>
+<IMG align="CENTER" src="Interface/AddOns/LoreLibrary/Images/crest_NightElf" /><BR/>
+<BR/>
+<BR/>
+<BR/>
+<BR/>
+<P align="CENTER"><BR/>
+Night Elven Crest</P><BR/>
+</BODY></HTML>
