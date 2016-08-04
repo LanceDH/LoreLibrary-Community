@@ -1,0 +1,5 @@
+--
+-- This file stores specific information for each faction, beginning with the major players in the faction.
+-- The information here is as follows:
+-- Name 	-	Information		-		Appearances		-		Model ID		-		Ingame Status (Friendly(F), Killable(K), Dead(D))
+--
